@@ -1,5 +1,5 @@
 # java-enterprise-uas
-Nama : Febbry Setiawan
-NIM : 2111510364
-UAS Pemrograman Java Enterprise
+\nNama : Febbry Setiawan
+\nNIM : 2111510364
+\nUAS Pemrograman Java Enterprise
 
